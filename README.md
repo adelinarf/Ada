@@ -1,5 +1,5 @@
-# Ada
-Pregunta 1.b Tarea 1
+# Tarea 1
+## Pregunta 1.b
 
 Los programas se han elaborado en el lenguaje Ada.
 
