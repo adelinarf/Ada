@@ -1,4 +1,4 @@
-# Tarea 1
+# Examen 1
 ## Pregunta 1.b
 
 Los programas se han elaborado en el lenguaje Ada.
